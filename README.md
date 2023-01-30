@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 29 2023 00:36:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 30 2023 00:29:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Blackbird in Essex, England (© Bill Coster/Alamy)](https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-01-29
+  2023-01-30
 
-  [Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg)
+  [Blackbird in Essex, England (© Bill Coster/Alamy)](https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg)
 <!-- END -->
 
 
