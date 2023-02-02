@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 01 2023 00:37:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 02 2023 00:34:18 GMT+0000 (Coordinated Universal Time) -->
+  !['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-02-01
+  2023-02-02
 
-  [Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg)
+  ['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg)
 <!-- END -->
 
 
