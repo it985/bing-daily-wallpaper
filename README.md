@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 05 2023 00:36:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 06 2023 00:30:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-02-05
+  2023-02-06
 
-  [Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)
+  [Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg)
 <!-- END -->
 
 
