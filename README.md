@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 15 2023 00:33:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 16 2023 00:33:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-02-15
+  2023-02-16
 
-  [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg)
+  [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg)
 <!-- END -->
 
 
