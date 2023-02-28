@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Feb 27 2023 00:34:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Feb 28 2023 00:34:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-02-27
+  2023-02-28
 
-  [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg)
+  [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
 <!-- END -->
 
 
