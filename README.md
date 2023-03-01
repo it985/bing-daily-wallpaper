@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Feb 28 2023 00:34:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Mar 01 2023 00:38:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-02-28
+  2023-03-01
 
-  [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
+  [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg)
 <!-- END -->
 
 
