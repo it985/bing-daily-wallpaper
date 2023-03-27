@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Mar 26 2023 00:33:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Mar 27 2023 00:30:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-03-26
+  2023-03-27
 
-  [Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg)
+  [Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg)
 <!-- END -->
 
 
