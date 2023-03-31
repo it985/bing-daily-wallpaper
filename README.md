@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 30 2023 00:32:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 31 2023 00:31:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-03-30
+  2023-03-31
 
-  [Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg)
+  [Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg)
 <!-- END -->
 
 
