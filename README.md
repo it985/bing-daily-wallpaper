@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Apr 01 2023 00:31:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Apr 02 2023 00:32:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-04-01
+  2023-04-02
 
-  [Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg)
+  [Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg)
 <!-- END -->
 
 
