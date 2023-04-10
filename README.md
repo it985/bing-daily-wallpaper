@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 09 2023 00:31:06 GMT+0000 (Coordinated Universal Time) -->
-  ![The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)](https://cn.bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 10 2023 00:29:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Lithuanian Easter eggs (© fotomem/Getty Images)](https://cn.bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-04-09
+  2023-04-10
 
-  [The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)](https://cn.bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg)
+  [Lithuanian Easter eggs (© fotomem/Getty Images)](https://cn.bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg)
 <!-- END -->
 
 
