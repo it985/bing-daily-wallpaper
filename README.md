@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 21 2023 00:29:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 22 2023 00:29:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-04-21
+  2023-04-22
 
-  [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)
+  [Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg)
 <!-- END -->
 
 
