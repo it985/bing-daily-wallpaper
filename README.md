@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 27 2023 00:32:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Great horned owl fledglings (© Michael Morse/Getty Images)](https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 29 2023 00:30:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)](https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-04-27
+  2023-04-29
 
-  [Great horned owl fledglings (© Michael Morse/Getty Images)](https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg)
+  [Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)](https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg)
 <!-- END -->
 
 
