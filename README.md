@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 09 2023 00:30:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed May 10 2023 00:29:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Getty Images)](https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-05-09
+  2023-05-10
 
-  [Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg)
+  [Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Getty Images)](https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg)
 <!-- END -->
 
 
