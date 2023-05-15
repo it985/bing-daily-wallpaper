@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 14 2023 00:32:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 15 2023 00:31:03 GMT+0000 (Coordinated Universal Time) -->
+  ![White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-05-14
+  2023-05-15
 
-  [Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg)
+  [White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg)
 <!-- END -->
 
 
