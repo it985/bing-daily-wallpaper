@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 23 2023 00:31:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed May 24 2023 00:31:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Western box turtle (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-05-23
+  2023-05-24
 
-  [Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg)
+  [Western box turtle (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg)
 <!-- END -->
 
 
