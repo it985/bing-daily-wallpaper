@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jun 25 2023 00:42:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jun 26 2023 00:40:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-06-25
+  2023-06-26
 
-  [Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg)
+  [Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg)
 <!-- END -->
 
 
