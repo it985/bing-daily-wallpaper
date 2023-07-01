@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jun 30 2023 00:37:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 01 2023 00:42:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-06-30
+  2023-07-01
 
-  [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg)
+  [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg)
 <!-- END -->
 
 
