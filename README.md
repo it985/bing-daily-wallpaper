@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 15 2023 00:38:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 16 2023 00:44:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-07-15
+  2023-07-16
 
-  [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg)
+  [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg)
 <!-- END -->
 
 
