@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 17 2023 00:42:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 18 2023 00:58:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-07-17
+  2023-07-18
 
-  [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg)
+  [Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg)
 <!-- END -->
 
 
