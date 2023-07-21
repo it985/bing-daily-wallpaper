@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jul 20 2023 00:35:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jul 21 2023 00:34:35 GMT+0000 (Coordinated Universal Time) -->
+  ![The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://cn.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-07-20
+  2023-07-21
 
-  [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg)
+  [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://cn.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg)
 <!-- END -->
 
 
