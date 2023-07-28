@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jul 27 2023 00:32:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jul 28 2023 00:32:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-07-27
+  2023-07-28
 
-  [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg)
+  [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg)
 <!-- END -->
 
 
