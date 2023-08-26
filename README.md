@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 25 2023 00:27:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 26 2023 00:25:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-08-25
+  2023-08-26
 
-  [Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg)
+  [Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg)
 <!-- END -->
 
 
