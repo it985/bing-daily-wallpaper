@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 31 2023 00:27:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Sep 01 2023 00:29:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-08-31
+  2023-09-01
 
-  [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg)
+  [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg)
 <!-- END -->
 
 
