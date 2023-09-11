@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 10 2023 00:29:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 11 2023 00:28:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-09-10
+  2023-09-11
 
-  [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg)
+  [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg)
 <!-- END -->
 
 
