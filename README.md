@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 22 2023 00:28:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 23 2023 00:26:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-09-22
+  2023-09-23
 
-  [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg)
+  [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg)
 <!-- END -->
 
 
