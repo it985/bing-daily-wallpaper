@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 27 2023 00:28:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 28 2023 00:28:05 GMT+0000 (Coordinated Universal Time) -->
+  ![The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-09-27
+  2023-09-28
 
-  [Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg)
+  [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg)
 <!-- END -->
 
 
