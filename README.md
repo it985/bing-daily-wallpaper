@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Sep 28 2023 00:28:05 GMT+0000 (Coordinated Universal Time) -->
-  ![The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Sep 29 2023 00:28:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-09-28
+  2023-09-29
 
-  [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg)
+  [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg)
 <!-- END -->
 
 
