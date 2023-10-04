@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Oct 03 2023 00:28:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Oct 04 2023 00:28:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-10-03
+  2023-10-04
 
-  [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)
+  [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)
 <!-- END -->
 
 
