@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 06 2023 00:28:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 07 2023 00:27:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-10-06
+  2023-10-07
 
-  [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)
+  [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg)
 <!-- END -->
 
 
