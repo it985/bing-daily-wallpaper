@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Oct 08 2023 00:30:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Oct 09 2023 00:28:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-10-08
+  2023-10-09
 
-  [Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg)
+  [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg)
 <!-- END -->
 
 
