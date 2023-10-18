@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Oct 17 2023 00:28:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Oct 18 2023 00:28:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-10-17
+  2023-10-18
 
-  [Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg)
+  [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg)
 <!-- END -->
 
 
