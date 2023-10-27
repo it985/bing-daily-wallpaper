@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 26 2023 00:27:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 27 2023 00:27:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-10-26
+  2023-10-27
 
-  [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg)
+  [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg)
 <!-- END -->
 
 
