@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 01 2023 00:30:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 02 2023 00:28:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-11-01
+  2023-11-02
 
-  [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg)
+  [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)
 <!-- END -->
 
 
