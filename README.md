@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 06 2023 00:29:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 07 2023 00:29:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-11-06
+  2023-11-07
 
-  [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)
+  [Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)
 <!-- END -->
 
 
