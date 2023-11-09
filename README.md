@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 08 2023 00:28:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 09 2023 00:28:39 GMT+0000 (Coordinated Universal Time) -->
+  ![West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-11-08
+  2023-11-09
 
-  [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg)
+  [West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg)
 <!-- END -->
 
 
