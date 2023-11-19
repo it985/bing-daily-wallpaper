@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 18 2023 00:29:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 19 2023 00:32:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://cn.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-11-18
+  2023-11-19
 
-  [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg)
+  [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://cn.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg)
 <!-- END -->
 
 
