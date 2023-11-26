@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 25 2023 00:28:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](https://cn.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 26 2023 00:32:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Toledo, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-11-25
+  2023-11-26
 
-  [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](https://cn.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg)
+  [Toledo, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg)
 <!-- END -->
 
 
