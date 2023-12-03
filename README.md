@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Dec 02 2023 00:29:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Dec 03 2023 00:32:20 GMT+0000 (Coordinated Universal Time) -->
+  ![North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-02
+  2023-12-03
 
-  [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)
+  [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg)
 <!-- END -->
 
 
