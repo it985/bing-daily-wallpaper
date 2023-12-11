@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Dec 10 2023 00:33:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Dec 11 2023 00:31:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-10
+  2023-12-11
 
-  [Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg)
+  [Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg)
 <!-- END -->
 
 
