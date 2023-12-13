@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 12 2023 00:30:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Dec 13 2023 00:30:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-12
+  2023-12-13
 
-  [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg)
+  [Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg)
 <!-- END -->
 
 
