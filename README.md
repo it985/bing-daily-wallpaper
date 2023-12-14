@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Dec 13 2023 00:30:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Dec 14 2023 00:29:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-13
+  2023-12-14
 
-  [Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg)
+  [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg)
 <!-- END -->
 
 
