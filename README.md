@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Dec 16 2023 00:29:40 GMT+0000 (Coordinated Universal Time) -->
-  ![SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Dec 17 2023 00:33:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-16
+  2023-12-17
 
-  [SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg)
+  [Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg)
 <!-- END -->
 
 
