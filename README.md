@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Dec 18 2023 00:31:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)](https://cn.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Dec 19 2023 00:30:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2023-12-18
+  2023-12-19
 
-  [Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)](https://cn.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg)
+  [Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg)
 <!-- END -->
 
 
