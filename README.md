@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 14 2024 00:34:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jan 16 2024 00:30:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-01-14
+  2024-01-16
 
-  [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg)
+  [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg)
 <!-- END -->
 
 
