@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Feb 12 2024 00:29:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Feb 13 2024 00:29:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-02-12
+  2024-02-13
 
-  [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg)
+  [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg)
 <!-- END -->
 
 
