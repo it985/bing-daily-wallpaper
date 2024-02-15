@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 14 2024 00:28:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 15 2024 00:28:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](https://cn.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-02-14
+  2024-02-15
 
-  [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg)
+  [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](https://cn.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg)
 <!-- END -->
 
 
