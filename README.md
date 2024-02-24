@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 23 2024 00:28:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 24 2024 00:27:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-02-23
+  2024-02-24
 
-  [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg)
+  [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg)
 <!-- END -->
 
 
