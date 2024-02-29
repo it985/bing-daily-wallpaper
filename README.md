@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 28 2024 00:27:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 29 2024 00:28:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-02-28
+  2024-02-29
 
-  [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)
+  [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)
 <!-- END -->
 
 
