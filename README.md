@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 02 2024 00:27:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 03 2024 00:30:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-03-02
+  2024-03-03
 
-  [Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)
+  [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)
 <!-- END -->
 
 
