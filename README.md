@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Mar 11 2024 00:30:09 GMT+0000 (Coordinated Universal Time) -->
-  ![San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Mar 12 2024 00:28:35 GMT+0000 (Coordinated Universal Time) -->
+  ![A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-03-11
+  2024-03-12
 
-  [San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)
+  [A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg)
 <!-- END -->
 
 
