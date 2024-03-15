@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 14 2024 00:28:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 15 2024 00:28:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-03-14
+  2024-03-15
 
-  [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg)
+  [Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg)
 <!-- END -->
 
 
