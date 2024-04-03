@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Apr 02 2024 00:29:30 GMT+0000 (Coordinated Universal Time) -->
-  !['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Apr 03 2024 00:29:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-04-02
+  2024-04-03
 
-  ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)
+  [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)
 <!-- END -->
 
 
