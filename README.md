@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 03 2024 00:29:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 04 2024 00:30:19 GMT+0000 (Coordinated Universal Time) -->
+  ![A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-04-03
+  2024-04-04
 
-  [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)
+  [A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)
 <!-- END -->
 
 
