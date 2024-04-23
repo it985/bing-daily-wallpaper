@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Apr 22 2024 00:31:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](https://cn.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Apr 23 2024 00:30:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)](https://cn.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-04-22
+  2024-04-23
 
-  [Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](https://cn.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg)
+  [Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)](https://cn.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg)
 <!-- END -->
 
 
