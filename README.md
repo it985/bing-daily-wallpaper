@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu May 02 2024 00:30:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri May 03 2024 00:32:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-05-02
+  2024-05-03
 
-  [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg)
+  [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg)
 <!-- END -->
 
 
