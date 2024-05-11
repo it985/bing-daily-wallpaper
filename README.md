@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 10 2024 00:30:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 11 2024 00:29:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-05-10
+  2024-05-11
 
-  [Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg)
+  [Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg)
 <!-- END -->
 
 
