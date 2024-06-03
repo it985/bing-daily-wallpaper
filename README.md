@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jun 02 2024 00:34:41 GMT+0000 (Coordinated Universal Time) -->
-  ![San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jun 03 2024 00:32:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-06-02
+  2024-06-03
 
-  [San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)
+  [Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)
 <!-- END -->
 
 
