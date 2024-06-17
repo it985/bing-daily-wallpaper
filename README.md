@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jun 16 2024 00:35:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jun 17 2024 00:34:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-06-16
+  2024-06-17
 
-  [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
+  [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)
 <!-- END -->
 
 
