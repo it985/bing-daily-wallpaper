@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 01 2024 00:37:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](https://cn.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 02 2024 00:32:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-01
+  2024-07-02
 
-  [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](https://cn.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg)
+  [Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)
 <!-- END -->
 
 
