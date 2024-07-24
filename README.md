@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 23 2024 00:34:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jul 24 2024 00:34:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-23
+  2024-07-24
 
-  [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg)
+  [Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg)
 <!-- END -->
 
 
