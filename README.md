@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 29 2024 00:35:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 30 2024 00:34:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-29
+  2024-07-30
 
-  [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg)
+  [Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg)
 <!-- END -->
 
 
