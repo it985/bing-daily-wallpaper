@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 30 2024 00:34:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jul 31 2024 00:27:51 GMT+0000 (Coordinated Universal Time) -->
+  ![San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-30
+  2024-07-31
 
-  [Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg)
+  [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg)
 <!-- END -->
 
 
