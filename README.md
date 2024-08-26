@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Aug 25 2024 00:38:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Aug 26 2024 00:35:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-08-25
+  2024-08-26
 
-  [Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg)
+  [Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg)
 <!-- END -->
 
 
