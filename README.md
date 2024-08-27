@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 26 2024 00:35:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 27 2024 00:35:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-08-26
+  2024-08-27
 
-  [Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg)
+  [Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg)
 <!-- END -->
 
 
