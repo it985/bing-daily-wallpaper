@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 01 2024 00:43:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 02 2024 00:37:41 GMT+0000 (Coordinated Universal Time) -->
+  ![River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-01
+  2024-09-02
 
-  [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg)
+  [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)
 <!-- END -->
 
 
