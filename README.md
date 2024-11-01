@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 31 2024 00:39:55 GMT+0000 (Coordinated Universal Time) -->
-  ![View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 01 2024 00:43:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-31
+  2024-11-01
 
-  [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)
+  [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg)
 <!-- END -->
 
 
