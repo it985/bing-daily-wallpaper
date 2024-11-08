@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 07 2024 00:38:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 08 2024 00:38:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](https://cn.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-07
+  2024-11-08
 
-  [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg)
+  [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](https://cn.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg)
 <!-- END -->
 
 
