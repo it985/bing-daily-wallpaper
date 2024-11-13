@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Nov 12 2024 00:38:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Nov 13 2024 00:38:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-12
+  2024-11-13
 
-  [Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg)
+  [Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg)
 <!-- END -->
 
 
