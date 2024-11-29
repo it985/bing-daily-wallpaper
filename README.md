@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 28 2024 00:42:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 29 2024 00:42:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Wild turkeys, New York (© John Cancalosi/Alamy)](https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-28
+  2024-11-29
 
-  [Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg)
+  [Wild turkeys, New York (© John Cancalosi/Alamy)](https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg)
 <!-- END -->
 
 
