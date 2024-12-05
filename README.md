@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Dec 04 2024 00:43:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Dec 05 2024 00:43:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-04
+  2024-12-05
 
-  [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)
+  [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)
 <!-- END -->
 
 
