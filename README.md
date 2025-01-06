@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jan 04 2025 00:38:40 GMT+0000 (Coordinated Universal Time) -->
-  ![The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 06 2025 00:41:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-04
+  2025-01-06
 
-  [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)
+  [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg)
 <!-- END -->
 
 
