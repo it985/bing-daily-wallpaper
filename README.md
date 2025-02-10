@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 09 2025 00:42:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 10 2025 00:40:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-09
+  2025-02-10
 
-  [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)
+  [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)
 <!-- END -->
 
 
