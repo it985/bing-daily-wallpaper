@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Mar 26 2025 00:42:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)](https://cn.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Mar 27 2025 00:42:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-26
+  2025-03-27
 
-  [Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)](https://cn.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg)
+  [Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg)
 <!-- END -->
 
 
