@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 30 2025 00:44:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 01 2025 00:51:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-30
+  2025-05-01
 
-  [Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)
+  [Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg)
 <!-- END -->
 
 
