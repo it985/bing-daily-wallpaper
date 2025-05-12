@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 11 2025 00:50:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 12 2025 00:49:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-11
+  2025-05-12
 
-  [Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)
+  [Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg)
 <!-- END -->
 
 
