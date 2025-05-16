@@ -3,12 +3,12 @@
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu May 15 2025 00:44:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri May 16 2025 00:46:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-15
+  2025-05-16
 
-  [Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg)
+  [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
 <!-- END -->
 
 
